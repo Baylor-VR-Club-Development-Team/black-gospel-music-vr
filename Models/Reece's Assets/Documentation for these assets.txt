@@ -1,0 +1,12 @@
+The most finished asset is going to be church_Greyscale_towerwork
+
+The Vynil Despenser is the model that goes inside the pulpit to hold records
+
+simplepulpit is the pulpit finished but seperated parts
+	simplepulpitjoined is the pulpit with its parts combined
+	Would recommend redoing the joining after texturing
+
+The rest of the files are just other stages of the church that do not need
+to be used
+
+None of the models are textured yet
