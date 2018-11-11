@@ -11,6 +11,14 @@
 		{
 			"Name": "OSVR",
 			"Enabled": true
+		},
+		{
+			"Name": "StereoPanorama",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
