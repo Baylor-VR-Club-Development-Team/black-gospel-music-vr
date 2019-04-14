@@ -6,6 +6,7 @@
 
 #include "CoreMinimal.h"
 #include "DBXMLInterpreter.h"
+#include "RecordData.h"
 
 using namespace std;
 
@@ -18,9 +19,9 @@ public:
 	DBXMLFFunctions();
 	~DBXMLFFunctions();
 
-	static vector<pair<int, string>> getSearchableRecordList(string xml) {
+	static vector<pair<int, string>> getSearchableRecordList(string xml);
 
-	}
+	static RecordData getRecordData(string xml);
 
-	static 
+	static void populateSongAndImageFiles(RecordData& recordData, string xml);
 };
