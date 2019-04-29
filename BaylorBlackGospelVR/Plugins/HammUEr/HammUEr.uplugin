@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "HammUEr",
+	"Version": 201607170500,
+	"VersionName": "1.6 201607170500",
+	"CreatedBy": "NT Entertainment",
+	"CreatedByURL": "",
+	"Category": "NT Entertainment",
+	"Description": "- Import Source VMF, idTech 1-4 (Quake 1-3/Doom3 and other games using the engine) MAP & Doom3 PROC files straight to Unreal Engine\r\n- Import VMT+VTF(Source)/WAD(Q1&HL1)/WAL(Q2)/SHADER(Q3)/MTR(D3)/PNG/BMP/TGA/JPG files and create material instances based on a parent material type\r\n- Export Unreal Engine materials to VMT+VTF combos for use in Hammer\r\n- Import Source MDL & SMD files, with automatic placement when loading VMF maps",
+	"EnabledByDefault": false,
+	"EngineVersion": "4.21.0",
+	"Modules": [
+		{
+			"Name": "HammUErRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "HammUEr",
+			"Type": "EditorNoCommandlet",
+			"LoadingPhase": "Default"
+		}
+	]
+}
