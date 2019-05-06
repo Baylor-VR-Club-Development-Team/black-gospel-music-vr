@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HammUEr.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Intermediate\Build\Win64\BaylorBlackGospelVREditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUEr\Module.HammUEr.cpp.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUEr\Module.HammUEr.gen.cpp.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUEr\PCLaunch.rc.res"
+/OUT:"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\HammUEr\Intermediate\Build\Win64\UE4Editor\Development\HammUEr\UE4Editor-HammUEr.lib"
