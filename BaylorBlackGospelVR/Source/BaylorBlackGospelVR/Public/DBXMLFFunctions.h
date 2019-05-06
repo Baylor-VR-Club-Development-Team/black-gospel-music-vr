@@ -13,7 +13,7 @@ using namespace std;
 /**
  * 
  */
-class BAYLORBLACKGOSPELVR_API DBXMLFFunctions : UDBXMLInterpreter
+class BAYLORBLACKGOSPELVR_API DBXMLFFunctions : public UDBXMLInterpreter
 {
 public:
 	DBXMLFFunctions();
