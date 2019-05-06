@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.LowEntryHttpRequest.cpp.o",
+		"Module.LowEntryHttpRequest.gen.cpp.o"
+	]
+}

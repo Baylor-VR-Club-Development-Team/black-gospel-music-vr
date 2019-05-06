@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 14,
+	"VersionName": "4.21.0 r0",
+	"FriendlyName": "Low Entry - Xml Parser",
+	"Description": "The Xml Parser plugin provides you with blueprints to parse XML data.",
+	"Category": "Low Entry.Plugins",
+	"CreatedBy": "Low Entry",
+	"CreatedByURL": "https://lowentry.com",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5ac057200f49458f8ff82cb771ca23b6",
+	"SupportURL": "",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LowEntryXmlParser",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

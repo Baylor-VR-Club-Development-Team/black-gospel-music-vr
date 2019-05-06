@@ -38,6 +38,16 @@
 		{
 			"Name": "HammUEr",
 			"Enabled": true
+		},
+		{
+			"Name": "LowEntryHttpRequest",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/29d22bc9b02148d6bf6f57e1a0f660cc"
+		},
+		{
+			"Name": "LowEntryXmlParser",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5ac057200f49458f8ff82cb771ca23b6"
 		}
 	],
 	"TargetPlatforms": [

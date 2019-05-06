@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 18,
+	"VersionName": "4.21.0 r0",
+	"FriendlyName": "Low Entry - Http Request",
+	"Description": "The Http Request plugin provides you with blueprints to make HTTP requests.",
+	"Category": "Low Entry.Plugins",
+	"CreatedBy": "Low Entry",
+	"CreatedByURL": "https://lowentry.com",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/29d22bc9b02148d6bf6f57e1a0f660cc",
+	"SupportURL": "",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LowEntryHttpRequest",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
