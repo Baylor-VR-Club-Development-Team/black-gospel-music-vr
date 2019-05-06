@@ -80,3 +80,6 @@ DerivedDataCache/*
 LocalDerivedDataCache/*
 
 CrashReportClient/*
+
+# Do not ignore plugins folder
+!Plugins/**/*
