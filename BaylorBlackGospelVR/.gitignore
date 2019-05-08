@@ -1,7 +1,13 @@
 *.log
 =======
 # Visual Studio 2015 user specific files
-.vs/
+.vs/*
+
+# IDEA
+.idea/*
+
+#VSCODE
+.vscode/*
 
 # Visual Studio 2015 database file
 *.VC.db
