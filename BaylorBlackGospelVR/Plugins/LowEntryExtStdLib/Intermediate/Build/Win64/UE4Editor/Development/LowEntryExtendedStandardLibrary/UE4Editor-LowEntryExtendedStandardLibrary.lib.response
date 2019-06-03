@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LowEntryExtendedStandardLibrary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Intermediate\Build\Win64\BaylorBlackGospelVREditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.cpp.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.1_of_3.cpp.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.2_of_3.cpp.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\Module.LowEntryExtendedStandardLibrary.gen.3_of_3.cpp.obj"
+"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\PCLaunch.rc.res"
+/OUT:"C:\Users\seanb\Documents\GitHub\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryExtStdLib\Intermediate\Build\Win64\UE4Editor\Development\LowEntryExtendedStandardLibrary\UE4Editor-LowEntryExtendedStandardLibrary.lib"
