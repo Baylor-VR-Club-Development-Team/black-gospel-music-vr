@@ -1,8 +1,0 @@
-{
-	"BuildId": "4541578",
-	"Modules": 
-	{
-		"LowEntryExtendedStandardLibrary": "UE4Editor-LowEntryExtendedStandardLibrary.dylib",
-		"LowEntryExtendedStandardLibraryEditor": "UE4Editor-LowEntryExtendedStandardLibraryEditor.dylib"
-	}
-}

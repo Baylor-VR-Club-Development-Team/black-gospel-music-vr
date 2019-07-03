@@ -1,8 +1,0 @@
-{
-	"BuildId": "4541578",
-	"Modules": 
-	{
-		"LowEntryExtendedStandardLibrary": "UE4Editor-LowEntryExtendedStandardLibrary-4195-Win64-DebugGame.dll",
-		"LowEntryExtendedStandardLibraryEditor": "UE4Editor-LowEntryExtendedStandardLibraryEditor-1053-Win64-DebugGame.dll"
-	}
-}
