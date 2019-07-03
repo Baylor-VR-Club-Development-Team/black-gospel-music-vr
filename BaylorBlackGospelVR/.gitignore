@@ -17,6 +17,10 @@
 *.lo
 *.o
 *.obj
+*.lib
+*.pdb
+*.dll
+*.exp
 
 # Precompiled Headers
 *.gch

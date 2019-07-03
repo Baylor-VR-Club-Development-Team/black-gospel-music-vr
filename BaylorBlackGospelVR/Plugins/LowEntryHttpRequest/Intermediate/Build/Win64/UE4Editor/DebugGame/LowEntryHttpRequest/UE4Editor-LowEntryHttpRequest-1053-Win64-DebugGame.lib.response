@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LowEntryHttpRequest-1053-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Git\black-gospel-music-vr\BaylorBlackGospelVR\Intermediate\Build\Win64\BaylorBlackGospelVREditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"C:\Git\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryHttpRequest\Intermediate\Build\Win64\UE4Editor\DebugGame\LowEntryHttpRequest\Module.LowEntryHttpRequest.cpp.obj"
+"C:\Git\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryHttpRequest\Intermediate\Build\Win64\UE4Editor\DebugGame\LowEntryHttpRequest\Module.LowEntryHttpRequest.gen.cpp.obj"
+"C:\Git\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryHttpRequest\Intermediate\Build\Win64\UE4Editor\DebugGame\LowEntryHttpRequest\PCLaunch.rc.res"
+/OUT:"C:\Git\black-gospel-music-vr\BaylorBlackGospelVR\Plugins\LowEntryHttpRequest\Intermediate\Build\Win64\UE4Editor\DebugGame\LowEntryHttpRequest\UE4Editor-LowEntryHttpRequest-1053-Win64-DebugGame.lib"

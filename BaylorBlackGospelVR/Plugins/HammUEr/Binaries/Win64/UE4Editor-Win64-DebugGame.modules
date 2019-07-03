@@ -1,0 +1,8 @@
+{
+	"BuildId": "4541578",
+	"Modules": 
+	{
+		"HammUEr": "UE4Editor-HammUEr-1053-Win64-DebugGame.dll",
+		"HammUErRuntime": "UE4Editor-HammUErRuntime-1053-Win64-DebugGame.dll"
+	}
+}
