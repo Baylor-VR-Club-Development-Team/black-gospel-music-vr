@@ -48,6 +48,11 @@
 			"Name": "LowEntryXmlParser",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5ac057200f49458f8ff82cb771ca23b6"
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	],
 	"TargetPlatforms": [
