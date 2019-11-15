@@ -53,6 +53,10 @@
 			"Name": "VictoryBPLibrary",
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
